@@ -2,18 +2,9 @@
 
 Modern, animated portfolio built with pure HTML/CSS/JavaScript.
 
-## 🚀 Quick Start
+## 🚀 View Your CV
 
-**View locally:**
-```bash
-open index.html
-```
-
-**Deploy to GitHub Pages:**
-1. Create repo `my-cv`
-2. Upload `index.html`
-3. Enable Pages in Settings
-4. Live at: `yourusername.github.io/my-cv`
+**Live:** https://notfarruks.github.io/my-cv/
 
 ## ✨ Features
 
@@ -38,7 +29,7 @@ open index.html
 ✅ Works on all devices
 ✅ Stands out immediately
 
-## 🔗 Links
+## 🔗 Connect
 
 - 📧 [Email](mailto:farrukh112@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/farrukh-mammadov-927996233)
