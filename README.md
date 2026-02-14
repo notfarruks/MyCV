@@ -16,10 +16,10 @@ Modern, animated portfolio built with pure HTML/CSS/JavaScript.
 
 ## 📊 What's Inside
 
-- Experience (HOPn, AZEL, Kodland, Bilkent)
-- Technical Skills (Python, TypeScript, Backend, ML)
-- Languages (Azerbaijani, English, Russian, Turkish)
-- Education (Bilkent University)
+- Experience 
+- Technical Skills 
+- Languages 
+- Education 
 
 ## 🎯 Why Interactive?
 
