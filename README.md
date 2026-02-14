@@ -4,7 +4,7 @@ Modern, animated portfolio built with pure HTML/CSS/JavaScript.
 
 ## 🚀 View Your CV
 
-**Live:** https://notfarruks.github.io/my-cv/
+**Live:** https://notfarruks.github.io/MyCV/
 
 ## ✨ Features
 
